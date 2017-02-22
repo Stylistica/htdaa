@@ -39,3 +39,22 @@ body {
 .portfolio-thumbnail {
 	text-align: center;
 }
+
+.cols{
+	position: relative;
+    min-height: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.blank{
+	height: 50px;
+	width: auto;
+}
