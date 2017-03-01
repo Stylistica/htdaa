@@ -48,6 +48,7 @@ body {
     width: 100px;
 }
 
+
 img {
   display: block;
   width: 100%;
@@ -57,4 +58,20 @@ img {
 .blank{
 	height: 50px;
 	width: auto;
+}
+
+.title{
+	padding-bottom: 10px;
+}
+
+.intro{
+	padding-bottom: 70px; color: rgb(230, 126, 34);
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
