@@ -19,7 +19,7 @@ h4 {
 }
 
 body {
-	padding: 80px 40px 40px 40px;
+	padding: 80px 60px 80px 60px;
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -28,6 +28,17 @@ body {
 	font-size: 120%;
 	color: rgb(128,128,128);
 	padding-bottom: 60px;
+}
+
+.general-text {
+	font-size: 120%;
+	color: rgb(128,128,128);
+}
+
+.general-center-text {
+	text-align: center;
+	font-size: 120%;
+	color: rgb(128,128,128);
 }
 
 .portfolio-wrapper {
@@ -48,6 +59,14 @@ body {
     width: 100px;
 }
 
+.blank{
+	padding-top: 60px;
+	width: auto;
+}
+
+.image-title{
+	text-align: center;
+}
 
 img {
   display: block;
@@ -55,10 +74,6 @@ img {
   height: auto;
 }
 
-.blank{
-	height: 50px;
-	width: auto;
-}
 
 .title{
 	padding-bottom: 10px;
